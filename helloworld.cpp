@@ -5,4 +5,4 @@ int main(){
 	return 0;
 }
 
-Creating a new branch is quick & Simple.
+Creating a new branch is quick and Simple.
